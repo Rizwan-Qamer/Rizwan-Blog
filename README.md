@@ -1,4 +1,4 @@
 # Rizwan-Blog
 This is my first Git Repository.
 <br>
-Author - Rizwan Qamer
+Author - Rizwan (Demo)
